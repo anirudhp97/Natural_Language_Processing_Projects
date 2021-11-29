@@ -8,7 +8,7 @@
 
 (II) Tech Stack: <br>
 -> Programming Language: Python <br>
--> Libraries: 
+-> Libraries: <br>
    (a) Tweepy <br>
    (b) Pandas <br>
    (c) NLTK (stopwords, WordNetLemmatizer, vader, word_tokenize) <br>
