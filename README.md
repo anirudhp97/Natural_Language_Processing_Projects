@@ -1,6 +1,4 @@
-# Natural_Language_Processing_Projects
-
-This repository contains projects based on Natural Language Processing (NLP). <br>
+# Natural_Language_Processing
 
 (I) Basic Introduction to NLP:
 
