@@ -8,12 +8,12 @@
 
 (II) Tech Stack: <br>
 -> Programming Language: Python <br>
--> Libraries used: 
-   (a) To fetch the data: tweepy
-   (b) To store it as a dataframe: Pandas
-   (c) To perform Sentiment Analysis: NLTK (stopwords, WordNetLemmatizer, vader, word_tokenize)
-   (d) Visualize the reviews: Matplotlib and Wordcloud
+-> Libraries: 
+   (a) Tweepy <br>
+   (b) Pandas <br>
+   (c) NLTK (stopwords, WordNetLemmatizer, vader, word_tokenize) <br>
+   (d) Matplotlib and Wordcloud <br>
 
-(III) This is what twitteratis had to say about the movie: <br>
+(III) This is what the twitteratis had to say about the movie: <br>
 
 ![Wordcloud](https://user-images.githubusercontent.com/30742445/143890623-c8f7a6f1-9eff-4307-a158-27a2aa464a1c.png)
